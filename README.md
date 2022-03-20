@@ -71,7 +71,7 @@ secure-file-priv= NULL
 innodb_buffer_pool_size     = 6144M
 innodb_compression_level    = 9
 innodb_log_buffer_size      = 1048576
-innodb_buffer_pool_size     = 25769802378
+innodb_buffer_pool_size     = 2566914048
 innodb_log_file_size        = 104857600
-
+innodb_flush_log_at_trx_commit = 0
 ```
